@@ -1,4 +1,4 @@
-# GrimmTextProcessor
+# Grimm Text Processor
 
 A comprehensive text processing project using Python and NLTK, focused on processing text from Grimms' Fairy Tales. The project involves reading text files, tokenizing the content, removing punctuation, converting text to lowercase, and filtering out stopwords. This project was developed as part of a laboratory exercise to understand the basics of text preprocessing for information retrieval.
 
